@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danipetra
 - 👀 I’m interested in Game Development, using Unity3D and Unreal Engine 4
 - 🌱 I’m currently learning C++ programming language
-- 💞️ I’m looking to collaborate with Game Development studios and on indie projects
+- 💞️ I’m looking to collaborate with a Game Development Studio
 - 📫 How to reach me ...
 
 https://www.linkedin.com/in/daniele-petracca-58684a165/
