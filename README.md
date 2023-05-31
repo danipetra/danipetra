@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danipetra
-- 👀 I’m interested in Game Development (mainly with Unity and Unreal Engine) and Data Analysis and Visualization.
-- 🌱 I’m currently learning C++ programming language.
+- 👀 I’m interested in Game Development (mainly with Unity and Unreal Engine), more recently with Javascript, and Data Analysis and Visualization.
+- 🌱 I’m currently learning Javascript programming language.
 - 💞️ I’m looking to collaborate with a Game Development Studio.
 - 📫 How to reach me ...
 https://danipetra.github.io/
