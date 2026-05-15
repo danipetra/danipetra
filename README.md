@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @danipetra
-- 👀 I’m interested in Game Development (mainly with Unity and Unreal Engine), more recently with Javascript, and Data Analysis and Visualization.
-- 🌱 I’m currently learning Javascript programming language.
-- 💞️ I’m looking to collaborate with a Game Development Studio.
-- 📫 How to reach me ...
-https://danipetra.github.io/
-https://www.linkedin.com/in/daniele-petracca-58684a165/
-https://www.facebook.com/daniele.petracca.9
-daniele.petracca.dp@gmail.com
+# Daniele Petracca
+Frontend & Interactive Developer focused on
+2D/3D experiences, browser games and creative interfaces.
+
+## What I do 🚀
+- Interactive Web Apps
+- 2D/3D Configurators
+- HTML5 Games
+- Creative Frontend Experiences
+- Game Development with Unity
+
+## Tech Stack 📚
+Frontend:
+React, JavaScript, TypeScript, Angular
+
+Graphics & Interaction:
+Pixi.js, Three.js, GSAP, WebGL, p5.js, g6
+
+Game Dev:
+Unity, C#, Unreal Engine 5
+
+Backend & Tools:
+Node.js, PHP/Laravel, Docker, Git
+
 <!---
 danipetra/danipetra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
